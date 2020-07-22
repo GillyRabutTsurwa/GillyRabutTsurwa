@@ -1,21 +1,21 @@
-<img src="https://github.com/GillyRabutTsurwa/GillyRabutTsurwa/blob/master/VueBanner.jpg">
+<img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/VueBanner.jpg">
 
-- **What I am good at:** [<img src="https://github.com/GillyRabutTsurwa/GillyRabutTsurwa/blob/master/vue.svg">][vue] [<img src="https://github.com/GillyRabutTsurwa/GillyRabutTsurwa/blob/master/svelte.svg">][svelte] [<img src="https://github.com/GillyRabutTsurwa/GillyRabutTsurwa/blob/master/tailwind.svg">][tailwind]
+##Specialisations: [<img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/vue.svg">][vue] • [<img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/svelte.svg">][svelte] • [<img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/tailwind.svg">][tailwind] • [<img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/sass.svg">][tailwind]
 
-- **What I am learning:** [<img src="https://github.com/GillyRabutTsurwa/GillyRabutTsurwa/blob/master/react.svg">][react] <img src="https://github.com/GillyRabutTsurwa/GillyRabutTsurwa/blob/master/adobexd.svg">
+I love making front-end UIs, full websites and applications with Vue. I've been using sass for years, but I love the alternative dimension tailwind offers to writing CSS.
 
-#### More About Me
+###Current Learning: [<img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/react.svg">][react] • <img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/adobexd.svg">
+Even though Vue is my primary framework of choice. My next stop is [React][react]. Keen on knowing what the hype is. I am also learning UI/UX design with AdobeXD. I can code it, but I also want to know how to landscape it as well.
 
-As you can see, I am huge fan of front-end CSS and Javascript frameworks. If I'm not coding. I'm reading, and if not that, then I'm probably outside in nature as far away from a computer as possible. 
+#### Irrelevant info about me
+
+If I'm not coding or designing, I'm reading, and if not that, then I'm probably outside in nature as far away from a computer as possible. Trilingual (English, Swahili, and French) looking to learn Spanish. Many collect books, I collect languages.
 
 
-[website][website] **|** 
-[Linkedin][linkedin] **|**
-[twitter][twitter] **|** 
-[Instagram][instagram] **|** 
+
 
 #### Follow Me: 
-  <img src="https://github.com/GillyRabutTsurwa/GillyRabutTsurwa/blob/master/facebook.svg"> <img src="https://github.com/GillyRabutTsurwa/GillyRabutTsurwa/blob/master/instagram.svg"> <img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/linkedin.svg"> <img src="https://github.com/GillyRabutTsurwa/GillyRabutTsurwa/blob/master/twitter.svg">
+  [<img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/facebook.svg">][facebook] • [<img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/instagram.svg">][instagram] • [<img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/linkedin.svg">][linkedin] • [<img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/twitter.svg">][twitter]
 
 
 [vue]: https://vuejs.org/
@@ -26,6 +26,7 @@ As you can see, I am huge fan of front-end CSS and Javascript frameworks. If I'm
 [twitter]: https://twitter.com/GTsurwa
 [instagram]: https://www.instagram.com/rabuttsurwa96/
 [linkedin]: https://www.linkedin.com/in/gilberttsurwa/
+[facebook]: https://www.linkedin.com/in/gilberttsurwa/
 
 ##### And finally, check out my [website][website]
  
