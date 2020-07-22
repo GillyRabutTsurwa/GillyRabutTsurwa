@@ -1,12 +1,17 @@
-### Hi there 👋
+### Front-end developer.
+ 
+Learning [Svelte][svelte] and [Tailwind][tailwind]  
+Loving [Vue][vue]
 
-<!--
-**GillyRabutTsurwa/GillyRabutTsurwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[website][website] **|** 
+[Linkedin][linkedin] **|**
+[twitter][twitter] **|** 
+[Instagram][instagram] **|** 
 
-- 🔭 I’m currently working on ... it's a secret
-- 🌱 I’m currently learning Vue
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with React
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+[vue]: https://vuejs.org/
+[svelte]: https://svelte.dev
+[tailwind]: https://tailwindcss.com
+[website]: https://portfolio-gilbertrabuttsurwa.netlify.app/
+[twitter]: https://twitter.com/bradgarropy
+[instagram]: https://instagram.com/bradgarropy
+[linkedin]: https://linkedin.com/in/bradgarropy
