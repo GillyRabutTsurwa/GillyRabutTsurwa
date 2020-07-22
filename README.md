@@ -1,8 +1,8 @@
 <img src="https://github.com/GillyRabutTsurwa/GillyRabutTsurwa/blob/master/VueBanner.jpg">
 
-- **What I am good at:** [<img src="vue.svg">][vue] [<img src="svelte.svg">][svelte] [<img src="tailwind.svg">][tailwind]
+- **What I am good at:** [<img src="vue.svg">][vue] [<img src="https://github.com/GillyRabutTsurwa/GillyRabutTsurwa/blob/master/svelte.svg">][svelte] [<img src="https://github.com/GillyRabutTsurwa/GillyRabutTsurwa/blob/master/tailwind.svg">][tailwind]
 
-- **What I am learning:** [<img src="react.svg">][react] <img src="adobexd.svg">
+- **What I am learning:** [<img src="react.svg">][react] <img src="https://github.com/GillyRabutTsurwa/GillyRabutTsurwa/blob/master/adobexd.svg">
 
 #### More About Me
 
@@ -15,7 +15,7 @@ As you can see, I am huge fan of front-end CSS and Javascript frameworks. If I'm
 [Instagram][instagram] **|** 
 
 #### Follow Me: 
-  <img src="facebook.svg"> <img src="instagram.svg"> <img src="linkedin.svg"> <img src="twitter.svg">
+  <img src="https://github.com/GillyRabutTsurwa/GillyRabutTsurwa/blob/master/facebook.svg"> <img src="https://github.com/GillyRabutTsurwa/GillyRabutTsurwa/blob/master/instagram.svg"> <img src="https://github.com/GillyRabutTsurwa/GillyRabutTsurwa/blob/master/linkedin.svg"> <img src="https://github.com/GillyRabutTsurwa/GillyRabutTsurwa/blob/master/twitter.svg">
 
 
 [vue]: https://vuejs.org/
