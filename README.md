@@ -1,8 +1,8 @@
 <img src="https://github.com/GillyRabutTsurwa/GillyRabutTsurwa/blob/master/VueBanner.jpg">
 
-- **What I am good at:** [<img src="vue.svg">][vue] [<img src="https://github.com/GillyRabutTsurwa/GillyRabutTsurwa/blob/master/svelte.svg">][svelte] [<img src="https://github.com/GillyRabutTsurwa/GillyRabutTsurwa/blob/master/tailwind.svg">][tailwind]
+- **What I am good at:** [<img src="https://github.com/GillyRabutTsurwa/GillyRabutTsurwa/blob/master/vue.svg">][vue] [<img src="https://github.com/GillyRabutTsurwa/GillyRabutTsurwa/blob/master/svelte.svg">][svelte] [<img src="https://github.com/GillyRabutTsurwa/GillyRabutTsurwa/blob/master/tailwind.svg">][tailwind]
 
-- **What I am learning:** [<img src="react.svg">][react] <img src="https://github.com/GillyRabutTsurwa/GillyRabutTsurwa/blob/master/adobexd.svg">
+- **What I am learning:** [<img src="https://github.com/GillyRabutTsurwa/GillyRabutTsurwa/blob/master/react.svg">][react] <img src="https://github.com/GillyRabutTsurwa/GillyRabutTsurwa/blob/master/adobexd.svg">
 
 #### More About Me
 
