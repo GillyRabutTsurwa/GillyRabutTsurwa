@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/../../VueBanner.jpg">
+<img src="https://github.com/GillyRabutTsurwa/GillyRabutTsurwa/blob/master/VueBanner.jpg">
 
 - **What I am good at:** [<img src="vue.svg">][vue] [<img src="svelte.svg">][svelte] [<img src="tailwind.svg">][tailwind]
 
