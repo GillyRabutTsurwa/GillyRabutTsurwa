@@ -15,7 +15,7 @@ As you can see, I am huge fan of front-end CSS and Javascript frameworks. If I'm
 [Instagram][instagram] **|** 
 
 #### Follow Me: 
-  <img src="https://github.com/GillyRabutTsurwa/GillyRabutTsurwa/blob/master/facebook.svg"> <img src="https://github.com/GillyRabutTsurwa/GillyRabutTsurwa/blob/master/instagram.svg"> <img src="https://github.com/GillyRabutTsurwa/GillyRabutTsurwa/blob/master/linkedin.svg"> <img src="https://github.com/GillyRabutTsurwa/GillyRabutTsurwa/blob/master/twitter.svg">
+  <img src="https://github.com/GillyRabutTsurwa/GillyRabutTsurwa/blob/master/facebook.svg"> <img src="https://github.com/GillyRabutTsurwa/GillyRabutTsurwa/blob/master/instagram.svg"> <img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/linkedin.svg"> <img src="https://github.com/GillyRabutTsurwa/GillyRabutTsurwa/blob/master/twitter.svg">
 
 
 [vue]: https://vuejs.org/
