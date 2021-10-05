@@ -22,7 +22,7 @@ If I'm not coding or designing, I'm reading, and if not that, then I'm probably 
 [svelte]: https://svelte.dev
 [tailwind]: https://tailwindcss.com
 [react]: https://reactjs.org/
-[website]: https://portfolio-gilbertrabuttsurwa.netlify.app/
+[website]: https://gilbertrabuttsurwa.tech
 [twitter]: https://twitter.com/GTsurwa
 [instagram]: https://www.instagram.com/rabuttsurwa96/
 [linkedin]: https://www.linkedin.com/in/gilberttsurwa/
