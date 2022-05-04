@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/VueBanner.jpg">
 
-<a href="https://app.daily.dev/gtsurwa"><img src="https://api.daily.dev/devcards/ac74af9dec804e4789cfdc154c5361fa.png?r=jq9" width="400" alt="Gilbert Rabut Tsurwa's Dev Card"/></a>
+<a href="https://app.daily.dev/gtsurwa"><img src="https://api.daily.dev/devcards/ac74af9dec804e4789cfdc154c5361fa.png?r=jq9" width="400" align="right" alt="Gilbert Rabut Tsurwa's Dev Card"/></a>
 
 ## Specialisations: [<img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/vue.svg">][vue] • [<img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/svelte.svg">][svelte] • [<img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/tailwind.svg">][tailwind] • [<img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/sass.svg">][tailwind]
 
