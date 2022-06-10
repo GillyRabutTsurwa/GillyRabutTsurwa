@@ -1,7 +1,5 @@
 <img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/VueBanner.jpg">
 
-<a href="https://app.daily.dev/gtsurwa"><img src="https://api.daily.dev/devcards/ac74af9dec804e4789cfdc154c5361fa.png?r=jq9" width="400" align="right" alt="Gilbert Rabut Tsurwa's Dev Card"/></a>
-
 ## Specialisations: [<img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/vue.svg">][vue] • [<img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/svelte.svg">][svelte] • [<img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/tailwind.svg">][tailwind] • [<img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/sass.svg">][tailwind]
 
 I love making front-end UIs, full websites and applications with Vue. I've been using sass for years, but I love the alternative dimension tailwind offers to writing CSS.
@@ -18,6 +16,8 @@ If I'm not coding or designing, I'm reading, and if not that, then I'm probably 
 
 #### Follow Me: 
   [<img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/facebook.svg">][facebook] • [<img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/instagram.svg">][instagram] • [<img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/linkedin.svg">][linkedin] • [<img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/twitter.svg">][twitter]
+  
+![Gilbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=GillyRabutTsurwa&hide=contribs,prs)
 
 
 [vue]: https://vuejs.org/
