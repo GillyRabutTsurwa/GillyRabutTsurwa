@@ -22,7 +22,7 @@ If I'm not coding or designing, I'm reading, and if not that, then I'm probably 
 
 ![Gilbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=GillyRabutTsurwa&hide=stars,contribs&count_private=true&show_icons=true&theme=gruvbox)
 
-[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GillyRabutTsurwa&layout=compact)](https://github.com/GillyRabutTsurwa)
+[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GillyRabutTsurwa&layout=compact&lang_count=10&theme=gruvbox)](https://github.com/GillyRabutTsurwa)
 
 
 
