@@ -15,9 +15,13 @@ If I'm not coding or designing, I'm reading, and if not that, then I'm probably 
 
 
 #### Follow Me: 
-  [<img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/facebook.svg">][facebook] • [<img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/instagram.svg">][instagram] • [<img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/linkedin.svg">][linkedin] • [<img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/twitter.svg">][twitter]
-  
-![Gilbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=GillyRabutTsurwa&hide=contribs,prs)
+[<img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/facebook.svg">][facebook] • [<img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/instagram.svg">][instagram] • [<img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/linkedin.svg">][linkedin] • [<img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/twitter.svg">][twitter]\
+
+
+##### And finally, check out my [website][website]
+
+![Gilbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=GillyRabutTsurwa&hide=stars&count_private=true)
+
 
 
 [vue]: https://vuejs.org/
@@ -29,6 +33,4 @@ If I'm not coding or designing, I'm reading, and if not that, then I'm probably 
 [instagram]: https://www.instagram.com/rabuttsurwa96/
 [linkedin]: https://www.linkedin.com/in/gilberttsurwa/
 [facebook]: https://www.linkedin.com/in/gilberttsurwa/
-
-##### And finally, check out my [website][website]
  
