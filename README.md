@@ -20,7 +20,7 @@ If I'm not coding or designing, I'm reading, and if not that, then I'm probably 
 
 ##### And finally, check out my [website][website]
 
-![Gilbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=GillyRabutTsurwa?theme=gruvbox&hide=stars,contribs&count_private=true&show_icons=true)
+![Gilbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=GillyRabutTsurwa&hide=stars,contribs&count_private=true&show_icons=true&theme=gruvbox)
 
 
 
