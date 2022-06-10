@@ -24,6 +24,8 @@ If I'm not coding or designing, I'm reading, and if not that, then I'm probably 
 
 [![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GillyRabutTsurwa&layout=compact&lang_count=10&theme=gruvbox)](https://github.com/GillyRabutTsurwa)
 
+[![Gilbert's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GillyRabutTsurwa)](https://github.com/GillyRabutTsurwa)
+
 
 
 [vue]: https://vuejs.org/
