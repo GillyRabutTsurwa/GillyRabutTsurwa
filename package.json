@@ -1,0 +1,24 @@
+{
+  "name": "gillyrabuttsurwa",
+  "version": "1.0.0",
+  "description": "<img src=\"https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/VueBanner.jpg\">",
+  "main": "index.js",
+  "scripts": {
+    "convert": "pandoc --from html --to markdown --output README.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GillyRabutTsurwa/GillyRabutTsurwa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GillyRabutTsurwa/GillyRabutTsurwa/issues"
+  },
+  "homepage": "https://github.com/GillyRabutTsurwa/GillyRabutTsurwa#readme",
+  "devDependencies": {
+    "node-pandoc": "^0.3.0",
+    "pandoc": "^0.2.0"
+  }
+}

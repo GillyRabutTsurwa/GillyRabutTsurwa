@@ -1,73 +1,75 @@
-<img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/VueBanner.jpg">
+![](https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/VueBanner.jpg)
 
-## Specialisations: [<img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/vue.svg">][vue] • [<img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/svelte.svg">][svelte] • [<img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/tailwind.svg">][tailwind] • [<img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/sass.svg">][tailwind]
+<h2 align="center"><u>About Me</u></h2>
+<p align="center">
+I am a web developper (mostly front-end) that specialises in JavaScript, Vue & Nuxt. I currently work at a university where I work with the MEMP stack (Mac, Nginx, MySQL, & PHP) to help maintain a site powered by WordPress. Also, in my current track to becoming a full-stack developper, I am currently learning NodeJS, with the intention of re-learning Express and MongoDB -- as I have some experience with both of these. I am also sharpening my React and TypeScript to become more proficient in my craft, and marketable. Svelte is my favourite "framework" to write code in, as VueJS is a close second, and I hope it becomes more, and more popular, but I digress.
+</p>
 
-I love making front-end UIs, full websites and applications with Vue. I've been using sass for years, but I love the alternative dimension tailwind offers to writing CSS.
+---
+<h3 align="center"><u>Languages and Tools</u></h3>
+<h4 align="center">Front-End</h4>
+<br>
+<p align="center">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="90" height="90"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="90" height="90"/> </a>
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="90" height="90"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="90" height="90"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="90" height="90"/> </a> 
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="90" height="90"/> </a>
+<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="90" height="90"/> </a> 
+<a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="90" height="90"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="90" height="90"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="90" height="90"/> </a>
+<a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="90" height="90"/> </a>
+<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="90" height="90"/> </a>
+</p>
 
-### Current Learning: [<img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/react.svg">][react] • <img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/adobexd.svg">
-Even though Vue is my primary framework of choice. My next stop is [React][react]. Keen on knowing what the hype is. I am also learning UI/UX design with AdobeXD. I can code it, but I also want to know how to landscape it as well.
+<br>
+<br>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h4 align="center">Back-End:</h4>
+<p align="center">
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="120" height="120"/> </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="120" height="120"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="120" height="120"/> </a>
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="120" height="120"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="120" height="120"/></a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="120" height="120"/> </a>
+</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/gtsurwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gtsurwa" height="30" width="40" /></a>
+<br>
+<br>
+
+<h4 align="center">Mobile:</h4>
+<p align="center">
+<a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="150" height="150"/> </a>
 </p>
 
 
-## Languages and Tools:
+<h4 align="center">Code & App Management:</h4>
+<p align="center">    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="90" height="90"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="90" height="90"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="90" height="90"/> </a>  </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="90" height="90"/> </a>  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="90" height="90"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="90" height="90"/> </a>          <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="90" height="90"/> </a> </p>
 
-### Front-End
+---
 
-[![html5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) ](https://www.w3.org/html/)
-[![css3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) ](https://www.w3schools.com/css/)
-[![sass](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg) ](https://sass-lang.com)
-[![javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) ](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![typescript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) ](https://www.typescriptlang.org/)
-[![vuejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg) ](https://vuejs.org/)
-[![nuxtjs](https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg) ](https://nuxtjs.org/)
-[![svelte](https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg) ](https://svelte.dev)
-[![react](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) ](https://reactjs.org/)
-[![tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg) ](https://tailwindcss.com/)
-[![bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)](https://getbootstrap.com)
-[![webpack](https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg)](https://webpack.js.org)
-[![chartjs](https://www.chartjs.org/media/logo-title.svg) ](https://www.chartjs.org)
+<p align="center">
+<a href="https://github.com/GillyRabutTsurwa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GillyRabutTsurwa&hide=stars,contribs&count_private=true&show_icons=true&theme=gruvbox" />
+</a>
+<a href="https://github.com/GillyRabutTsurwa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GillyRabutTsurwa&layout=compact&lang_count=10&theme=gruvbox" />
+</a>
+</p>
 
-### Back-End
-[![nodejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) ](https://nodejs.org)
-[![express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg) ](https://expressjs.com)
-[![mongodb](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg) ](https://www.mongodb.com/)
-[![mysql](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) ](https://www.mysql.com/)
-[![php](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) ](https://www.php.net)
-
-### Workflow
-[![gulp](https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg) ](https://gulpjs.com)
-[![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) ](https://git-scm.com/)[![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) ](https://www.linux.org/)
-### Programming
-[![java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) ](https://www.java.com)
+<!-- Commented out stat cards with original markdown syntaxe. j'utilise desormais la syntaxe HTML -->
 
 
-#### Follow Me: 
-[<img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/facebook.svg">][facebook] • [<img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/instagram.svg">][instagram] • [<img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/linkedin.svg">][linkedin] • [<img src="https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/twitter.svg">][twitter]\
+<!-- [![Gilbert\'s GitHub
+stats](https://github-readme-stats.vercel.app/api?username=GillyRabutTsurwa&hide=stars,contribs&count_private=true&show_icons=true&theme=gruvbox) -->
+
+<!-- 
+[![My Top
+Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GillyRabutTsurwa&layout=compact&lang_count=10&theme=gruvbox)](https://github.com/GillyRabutTsurwa)
 
 
-##### And finally, check out my [website][website]
-
-![Gilbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=GillyRabutTsurwa&hide=stars,contribs&count_private=true&show_icons=true&theme=gruvbox)
-
-[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GillyRabutTsurwa&layout=compact&lang_count=10&theme=gruvbox)](https://github.com/GillyRabutTsurwa)
-
-[![Gilbert's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GillyRabutTsurwa)](https://github.com/GillyRabutTsurwa)
-
-
-
-[vue]: https://vuejs.org/
-[svelte]: https://svelte.dev
-[tailwind]: https://tailwindcss.com
-[react]: https://reactjs.org/
-[website]: https://gilbertrabuttsurwa.tech
-[twitter]: https://twitter.com/GTsurwa
-[instagram]: https://www.instagram.com/rabuttsurwa96/
-[linkedin]: https://www.linkedin.com/in/gilberttsurwa/
-[facebook]: https://www.linkedin.com/in/gilberttsurwa/
- 
+[![Gilbert\'s wakatime
+stats](https://github-readme-stats.vercel.app/api/wakatime?username=GillyRabutTsurwa)](https://github.com/GillyRabutTsurwa) -->
