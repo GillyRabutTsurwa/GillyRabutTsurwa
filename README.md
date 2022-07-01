@@ -73,3 +73,6 @@ Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GillyR
 
 [![Gilbert\'s wakatime
 stats](https://github-readme-stats.vercel.app/api/wakatime?username=GillyRabutTsurwa)](https://github.com/GillyRabutTsurwa) -->
+
+![Metrics](https://metrics.lecoq.io/GillyRabutTsurwa?template=classic&isocalendar=1&stars=1&followup=1&activity=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&stars.limit=4&followup.sections=repositories&followup.indepth=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=America%2FNew_York)
+
