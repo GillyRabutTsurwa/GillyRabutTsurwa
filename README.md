@@ -6,12 +6,6 @@ I am a web developper (mostly front-end) that specialises in JavaScript, Vue & N
 </p>
 
 ---
-<p align="center">
-<a href="https://github.com/GillyRabutTsurwa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GillyRabutTsurwa&layout=compact&lang_count=10&theme=gruvbox" />
-</a>
-</p>
----
 <h3 align="center"><u>What I Use</u></h3>
 
 <p>
