@@ -6,8 +6,6 @@ I am a web developper (mostly front-end) that specialises in JavaScript, Vue & N
 </p>
 
 ---
-![Metrics](https://metrics.lecoq.io/GillyRabutTsurwa?template=classic&base.header=0&followup=1&activity=1&repositories=1&isocalendar=1&base.indepth=false&base.hireable=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&followup.sections=repositories&followup.indepth=false&followup.archived=true&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&repositories.pinned=0&config.timezone=America%2FNew_York)
----
 <p align="center">
 <a href="https://github.com/GillyRabutTsurwa">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GillyRabutTsurwa&layout=compact&lang_count=10&theme=gruvbox" />
