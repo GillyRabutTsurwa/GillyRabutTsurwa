@@ -48,7 +48,18 @@ class PuppeteerService {
     delay(time) {
         return new Promise((resolve) => setTimeout(resolve, time));
     }
+    //NEW: this will show new instagram posts each time the page is rendered
+    shuffleArray(array) {
+        const newArray = [...array]; // Create a new array to avoid modifying the original array
 
+        for (let i = newArray.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1)); // Generate a random index from 0 to i
+
+            // Swap elements between indices i and j
+            [newArray[i], newArray[j]] = [newArray[j], newArray[i]];
+        }
+        return newArray;
+    }
     /**
      *
      * @param {string} acc Account to crawl
@@ -73,7 +84,7 @@ class PuppeteerService {
 
             console.log("nodes", nodes);
 
-            return nodes.slice(0, n);
+            return this.shuffleArray(nodes.slice(0, n));
         } catch (error) {
             console.log(`Erreur: ${error}`);
             console.log(error);
