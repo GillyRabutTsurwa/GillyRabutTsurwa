@@ -5,6 +5,7 @@ class PuppeteerService {
 
     async init() {
         this.browser = await puppeteer.launch({
+            headless: "new",
             args: [
                 "--no-sandbox",
                 "--disable-setuid-sandbox",
@@ -43,37 +44,16 @@ class PuppeteerService {
         await this.page.close();
         await this.browser.close();
     }
+    // NEW
+    delay(time) {
+        return new Promise((resolve) => setTimeout(resolve, time));
+    }
 
     /**
      *
      * @param {string} acc Account to crawl
      * @param {number} n Qty of image to fetch
      */
-    // async getLatestInstagramPostsFromAccount(acc, n) {
-    //     try {
-    //         const page = `https://www.picuki.com/profile/${acc}`;
-    //         await this.goToPage(page);
-    //         let previousHeight;
-
-    //         previousHeight = await this.page.evaluate(`document.body.scrollHeight`);
-    //         await this.page.evaluate(`window.scrollTo(0, document.body.scrollHeight)`);
-    //         // 🔽 Doesn't seem to be needed
-    //         await this.page.waitForFunction(`document.body.scrollHeight > ${previousHeight}`);
-    //         await this.page.waitFor(1000);
-
-    //         const nodes = await this.page.evaluate(() => {
-    //             const images = document.querySelectorAll(`.post-image`);
-    //             return [].map.call(images, (img) => img.src);
-    //         });
-
-    //         console.log("nodes", nodes);
-
-    //         return nodes.slice(0, 3);
-    //     } catch (error) {
-    //         console.log("Error", error);
-    //         process.exit();
-    //     }
-    // }
     async getLatestInstagramPostsFromAccount(acc, n) {
         try {
             const page = `https://www.picuki.com/profile/${acc}`;
@@ -84,23 +64,22 @@ class PuppeteerService {
             await this.page.evaluate(`window.scrollTo(0, document.body.scrollHeight)`);
 
             // await this.page.waitForFunction(`document.body.scrollHeight > ${previousHeight}`);
-            await delay(1000); // Introduce a delay of 1000 milliseconds
+            await this.delay(1000); // Introduce a delay of 1000 milliseconds
 
-            const nodes = await this.page.$$eval(".post-image", (images) => {
-                return images.slice(0, 3).map((img) => img.src);
+            const nodes = await this.page.evaluate(() => {
+                const images = document.querySelectorAll(`.post-image`);
+                return [].map.call(images, (img) => img.src);
             });
 
             console.log("nodes", nodes);
 
-            return nodes;
+            return nodes.slice(0, n);
         } catch (error) {
-            console.log("Error", error);
+            console.log(`Erreur: ${error}`);
+            console.log(error);
             process.exit();
         }
     }
-}
-function delay(time) {
-    return new Promise((resolve) => setTimeout(resolve, time));
 }
 
 const puppeteerService = new PuppeteerService();
