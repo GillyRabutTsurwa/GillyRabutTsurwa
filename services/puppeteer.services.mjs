@@ -75,7 +75,7 @@ class PuppeteerService {
             await this.page.evaluate(`window.scrollTo(0, document.body.scrollHeight)`);
 
             // await this.page.waitForFunction(`document.body.scrollHeight > ${previousHeight}`);
-            await this.delay(1000); // Introduce a delay of 1000 milliseconds
+            await this.delay(5000); // Introduce a delay of 1000 milliseconds
 
             const nodes = await this.page.evaluate(() => {
                 const images = document.querySelectorAll(`.post-image`);
@@ -94,6 +94,4 @@ class PuppeteerService {
 }
 
 const puppeteerService = new PuppeteerService();
-
-// module.exports = puppeteerService;
 export default puppeteerService;
