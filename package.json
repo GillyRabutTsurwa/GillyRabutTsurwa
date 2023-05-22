@@ -1,5 +1,5 @@
 {
-  "name": "gillyrabuttsurwa",
+  "name": "github-readme-profile",
   "version": "1.0.0",
   "description": "<img src=\"https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/VueBanner.jpg\">",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/GillyRabutTsurwa/GillyRabutTsurwa.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Gilbert Rabut Tsurwa",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/GillyRabutTsurwa/GillyRabutTsurwa/issues"
@@ -20,5 +20,11 @@
   "devDependencies": {
     "node-pandoc": "^0.3.0",
     "pandoc": "^0.2.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mustache": "^4.2.0",
+    "node-fetch": "^3.3.1",
+    "puppeteer": "^20.3.0"
   }
 }
