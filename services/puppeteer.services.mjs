@@ -79,12 +79,14 @@ class PuppeteerService {
 
             const nodes = await this.page.evaluate(() => {
                 const images = document.querySelectorAll(`.post-image`);
-                return [].map.call(images, (img) => img.src);
+                const imageURLS = [].map.call(images, (img) => img.src);
+                return imageURLS;
             });
 
-            console.log("nodes", nodes);
+            const shuffledImageURLS = this.shuffleArray(nodes);
+            console.log("nodes", shuffledImageURLS);
 
-            return this.shuffleArray(nodes.slice(0, n));
+            return shuffledImageURLS.slice(0, n);
         } catch (error) {
             console.log(`Erreur: ${error}`);
             console.log(error);
