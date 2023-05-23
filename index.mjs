@@ -2,7 +2,8 @@ import dotenv from "dotenv";
 import mustache from "mustache";
 import fetch from "node-fetch";
 import fs from "fs";
-import puppeteerService from "./services/puppeteer.services.mjs";
+// import puppeteerService from "./services/puppeteer.services.mjs"; NOTEIMPORTANT: with babel, pointing to js file instead
+import puppeteerService from "./services/puppeteer.services.js";
 
 // const Mustache = require("mustache");
 // const fetch = require("node-fetch");
