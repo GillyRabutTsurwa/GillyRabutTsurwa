@@ -11,7 +11,7 @@ on:
     schedule:
         - cron: "0 */3 * * *"
 jobs:
-    Node Test:
+    node_test:
         runs-on: ubuntu-latest
 
         strategy:
@@ -28,8 +28,8 @@ jobs:
                   node-version: ${{ matrix.node-version }}
                   cache: "npm"
             - run: npm ci
-    Generate README:
-        needs: Node Test
+    generate_readme:
+        needs: node_test
         runs-on: ubuntu-latest
         steps:
             - name: Generate README file
