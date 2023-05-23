@@ -39,4 +39,4 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - name: Generate README file
-              run: npm start
+              run: node ../index.js
