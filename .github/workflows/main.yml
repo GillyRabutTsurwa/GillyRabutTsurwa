@@ -27,7 +27,13 @@ jobs:
               with:
                   node-version: ${{ matrix.node-version }}
                   cache: "npm"
-            - run: npm ci
+            - name: Cache dependencies and build outputs to improve workflow execution time.
+              uses: actions/cache@v1.2.1
+              with:
+                  path: node_modules
+                  key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+            - name: Install dependencies
+              run: npm install
     generate_readme:
         needs: node_test
         runs-on: ubuntu-latest
