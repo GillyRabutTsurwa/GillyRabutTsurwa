@@ -4,7 +4,8 @@
     "description": "<img src=\"https://raw.githubusercontent.com/GillyRabutTsurwa/GillyRabutTsurwa/master/VueBanner.jpg\">",
     "main": "index.js",
     "scripts": {
-        "convert": "pandoc --from html --to markdown --output README.md"
+        "convert": "pandoc --from html --to markdown --output README.md",
+        "start": "node index.js"
     },
     "repository": {
         "type": "git",
