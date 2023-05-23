@@ -39,4 +39,4 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - name: Generate README file
-              run: node index.mjs
+              run: node index.js
