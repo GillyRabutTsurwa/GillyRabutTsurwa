@@ -29,10 +29,10 @@ jobs:
                   cache: "npm"
             - name: Install dependencies
               run: npm install
-            - run: ls
     generate_readme:
         needs: node_test
         runs-on: ubuntu-latest
         steps:
+            - run: ls
             - name: Generate README file
               run: node ~/index.js
