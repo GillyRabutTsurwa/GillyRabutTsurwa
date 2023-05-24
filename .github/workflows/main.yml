@@ -27,14 +27,14 @@ jobs:
               with:
                   node-version: ${{ matrix.node-version }}
                   cache: "npm"
-            - name: Install dependencies
-              run: npm install
     generate_readme:
         needs: node_test
         runs-on: ubuntu-latest
         steps:
             - name: Verifying Repository
               uses: actions/checkout@v3
+            - name: Install dependencies
+              run: npm install
             - run: ls
             - name: Generate README file
               run: node index.js
