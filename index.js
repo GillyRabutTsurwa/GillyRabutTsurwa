@@ -14,8 +14,8 @@ let DATA = {
         day: "numeric",
         hour: "numeric",
         minute: "numeric",
-        timeZoneName: "short",
-        timeZone: "Europe/Stockholm",
+        timeZoneName: "longGeneric",
+        timeZone: "America/New_York",
     }),
 };
 
