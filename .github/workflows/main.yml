@@ -29,6 +29,7 @@ jobs:
                   cache: "npm"
             - name: Install dependencies
               run: npm install
+            - run: ls
     generate_readme:
         needs: node_test
         runs-on: ubuntu-latest
