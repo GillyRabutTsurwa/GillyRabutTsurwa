@@ -33,6 +33,8 @@ jobs:
         needs: node_test
         runs-on: ubuntu-latest
         steps:
+            - name: Verifying Repository
+              uses: actions/checkout@v3
             - run: ls
             - name: Generate README file
-              run: node ~/index.js
+              run: node index.js
