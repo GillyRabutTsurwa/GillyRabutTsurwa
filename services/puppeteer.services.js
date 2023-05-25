@@ -68,7 +68,10 @@ class PuppeteerService {
     async getLatestInstagramPostsFromAccount(acc, n) {
         try {
             const page = `https://www.picuki.com/profile/${acc}`;
-            await this.goToPage(page);
+            await this.goToPage(page, {
+                waitUntil: "load",
+                timeout: 0,
+            });
             let previousHeight;
 
             previousHeight = await this.page.evaluate(`document.body.scrollHeight`);
