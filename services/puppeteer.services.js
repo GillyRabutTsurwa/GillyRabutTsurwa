@@ -79,6 +79,7 @@ class PuppeteerService {
 
             // await this.page.waitForFunction(`document.body.scrollHeight > ${previousHeight}`);
             await this.delay(5000); // Introduce a delay of 1000 milliseconds
+            await this.page.setDefaultNavigationTimeout(0);
 
             const nodes = await this.page.evaluate(() => {
                 const images = document.querySelectorAll(`.post-image`);
